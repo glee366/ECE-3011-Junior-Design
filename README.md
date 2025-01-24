@@ -74,6 +74,6 @@ void detectTap() {
 ```
 
 ## Product Image
-![Educational Gameboy](path_to_image)
+![Educational Gameboy](IMG_4947.jpeg)
 
-_Ensure you upload your product image and replace `path_to_image` with the actual file path._
+
